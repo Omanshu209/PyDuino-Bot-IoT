@@ -14,4 +14,5 @@ The following components are required in order to make the robot:
 8) 9V battery
 9) 9V battery connector
 10) Breadboard
+11) Arduino programmable cable
 ```
