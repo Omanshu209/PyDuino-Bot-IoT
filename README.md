@@ -1,6 +1,8 @@
 # PyDuino Bot
 This is a Arduino(micro-controller)-based robot which is in the form of a rover consisting of a camera! It is controlled by a PyGame game(a python library) through WiFi.
 
+![Screenshot_2023-06-29-15-52-48-069](https://github.com/Omanshu209/PyDuino_Bot-WiFi/assets/114089324/9b48e359-6331-4f03-a752-2240e92f1ba8)
+
 ## Components
 The following components are required in order to make the robot:
 ```
@@ -16,6 +18,7 @@ The following components are required in order to make the robot:
 10) Breadboard
 11) Arduino programmable cable
 ```
+![Screenshot_2023-06-29-16-00-33-035](https://github.com/Omanshu209/PyDuino_Bot-WiFi/assets/114089324/77762e4c-4e94-44f9-ac77-69f938904d82)
 ## Uploading the Code
 ```
 - Upload the 'ESP32_MAIN.ino' file available in the ESP32 folder to the ESP-32 CAM trough UART connection
@@ -72,5 +75,7 @@ REST (Arduino Uno) --> GND (Arduino Uno)
 - Open the IP address(https://IP_address) to access the camera
 - To move the robot run the main.py file available in the Python folder and play the game!
 ```
+![Screenshot_2023-05-07-12-40-46-737](https://github.com/Omanshu209/PyDuino_Bot-WiFi/assets/114089324/c21db83d-c390-4365-b183-1ec440a2acb4)
+
 ## Credits
 This project was created by **Omanshu**.
