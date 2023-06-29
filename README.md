@@ -13,4 +13,5 @@ The following components are required in order to make the robot:
 7) 4 Wheels
 8) 9V battery
 9) 9V battery connector
+10) Breadboard
 ```
