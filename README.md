@@ -30,15 +30,24 @@ PIN 4 (L298N motor driver)  --> IO14 (ESP-32 CAM)
 
 12V (L298N motor driver)    --> Negative terminal (9V battery)
 
+
                              ---> GND (ESP-32 CAM)
                              |
 GND (L298N motor driver)    --
                              |
                              --> Positive terminal (9V battery)
 
+
 UnR (ESP-32 CAM)   --> RX (Arduino Uno)
 UoT (ESP-32 CAM)   --> TX (Arduino Uno)
 GND (ESP-32 CAM)   --> GND (Arduino Uno)
 
 REST (Arduino Uno) --> GND (Arduino Uno)
+
+
+5V (L298N motor driver) --> Breadboard --
+                                         |
+5V (ESP-32 CAM)         --> Breadboard ----> Series connection
+                                         |
+5V (Arduino Uno)        --> Breadboard --
 ```
