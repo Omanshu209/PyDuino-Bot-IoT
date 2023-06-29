@@ -9,7 +9,7 @@ The following components are required in order to make the robot:
 3) OV2680 Camera Module
 4) L298N motor Driver
 5) Jumper Wires
-6) 2 DC Motors
+6) 2 DC Motors(Geared)
 7) 4 Wheels
 8) 9V battery
 9) 9V battery connector
@@ -17,6 +17,10 @@ The following components are required in order to make the robot:
 11) Arduino programmable cable
 ```
 ## Curcuit
+```
+- Connect the wheels to the motors
+- Connect the OV2680 Camera Module to the ESP-32 CAM
+```
 ```
 Positive terminal (Motor 1) --> OUT 1 (L298 motor driver)
 Negative terminal (Motor 1) --> OUT 2 (L298 motor driver)
