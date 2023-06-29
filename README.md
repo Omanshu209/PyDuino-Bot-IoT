@@ -22,4 +22,9 @@ Positive terminal (Motor 1) --> OUT 1 (L298 motor driver)
 Negative terminal (Motor 1) --> OUT 2 (L298 motor driver)
 Positive terminal (Motor 2) --> OUT 4 (L298 motor driver)
 Negative terminal (Motor 2) --> OUT 3 (L298 motor driver)
+
+PIN 1 (L298N motor driver)  --> IO12 (ESP-32 CAM)
+PIN 2 (L298N motor driver)  --> IO13 (ESP-32 CAM)
+PIN 3 (L298N motor driver)  --> IO15 (ESP-32 CAM)
+PIN 4 (L298N motor driver)  --> IO14 (ESP-32 CAM)
 ```
