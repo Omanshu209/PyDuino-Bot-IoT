@@ -27,4 +27,13 @@ PIN 1 (L298N motor driver)  --> IO12 (ESP-32 CAM)
 PIN 2 (L298N motor driver)  --> IO13 (ESP-32 CAM)
 PIN 3 (L298N motor driver)  --> IO15 (ESP-32 CAM)
 PIN 4 (L298N motor driver)  --> IO14 (ESP-32 CAM)
+
+12V (L298N motor driver)    --> Negative terminal (9V battery)
+
+                             ---> GND (ESP-32 CAM)
+                             |
+GND (L298N motor driver)    --
+                             |
+                             --> Positive terminal (9V battery)
+
 ```
