@@ -16,3 +16,10 @@ The following components are required in order to make the robot:
 10) Breadboard
 11) Arduino programmable cable
 ```
+## Curcuit
+```
+Positive terminal (Motor 1) --> OUT 1 (L298 motor driver)
+Negative terminal (Motor 1) --> OUT 2 (L298 motor driver)
+Positive terminal (Motor 2) --> OUT 4 (L298 motor driver)
+Negative terminal (Motor 2) --> OUT 3 (L298 motor driver)
+```
