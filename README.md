@@ -18,7 +18,7 @@ The following components are required in order to make the robot:
 ```
 ## Uploading the Code
 ```
-- Upload the 'ESP-32_MAIN.ino' file available in the ESP-32 folder to the ESP-32 CAM trough UART connection
+- Upload the 'ESP32_MAIN.ino' file available in the ESP32 folder to the ESP-32 CAM trough UART connection
 (Upload using the Arduino IDE in windows or the Arduino Droid app in android)
 ```
 ## Curcuit
