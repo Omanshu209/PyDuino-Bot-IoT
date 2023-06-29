@@ -21,8 +21,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "realme";
-const char* password = "filename";
+const char* ssid = "username";
+const char* password = "password";
 WiFiServer S(5005);
 char buffer[20000];
 HardwareSerial S1(2);
