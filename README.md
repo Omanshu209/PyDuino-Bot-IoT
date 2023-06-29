@@ -36,9 +36,9 @@ GND (L298N motor driver)    --
                              |
                              --> Positive terminal (9V battery)
 
-UnR (ESP-32 CAM) --> RX (Arduino Uno)
-UoT (ESP-32 CAM) --> TX (Arduino Uno)
-GND (ESP-32 CAM) --> GND (Arduino Uno)
+UnR (ESP-32 CAM)   --> RX (Arduino Uno)
+UoT (ESP-32 CAM)   --> TX (Arduino Uno)
+GND (ESP-32 CAM)   --> GND (Arduino Uno)
 
 REST (Arduino Uno) --> GND (Arduino Uno)
 ```
