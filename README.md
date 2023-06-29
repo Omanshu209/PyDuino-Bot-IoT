@@ -60,3 +60,10 @@ REST (Arduino Uno) --> GND (Arduino Uno)
                                          |
 5V (Arduino Uno)        --> Breadboard --
 ```
+## Usage
+```
+- Change your WiFi's/Hotspot's name to 'username' and password to 'password'
+- Connect the Arduino Uno to your device using the Arduino cable
+```
+## Credits
+This project was created by **Omanshu**.
