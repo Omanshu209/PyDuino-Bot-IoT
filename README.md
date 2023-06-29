@@ -16,6 +16,11 @@ The following components are required in order to make the robot:
 10) Breadboard
 11) Arduino programmable cable
 ```
+## Uploading the Code
+```
+- Upload the 'ESP-32_MAIN.ino' file available in the ESP-32 folder to the ESP-32 CAM trough UART connection
+(Upload using the Arduino IDE in windows or the Arduino Droid app in android)
+```
 ## Curcuit
 ```
 - Connect the wheels to the motors
