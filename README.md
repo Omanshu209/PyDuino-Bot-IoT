@@ -63,7 +63,14 @@ REST (Arduino Uno) --> GND (Arduino Uno)
 ## Usage
 ```
 - Change your WiFi's/Hotspot's name to 'username' and password to 'password'
+- Turn on your WiFi/Hotspot
 - Connect the Arduino Uno to your device using the Arduino cable
+- Open the monitor of the Arduino IDE/Arduino Droid app
+- Change the Baud rate to 115200
+- Press the reset button of the ESP-32 CAM module
+- An IP address will be visible in the monitor of the IDE/App
+- Open the IP address(https://IP_address) to access the camera
+- To move the robot run the main.py file available in the Python folder and play the game!
 ```
 ## Credits
 This project was created by **Omanshu**.
