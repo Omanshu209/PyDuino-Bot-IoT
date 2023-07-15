@@ -1,5 +1,6 @@
 import socket
 import time
+
 # set up Wi-Fi connection
 TCP_IP = '192.168.43.196'  # replace this with the IP address of your ESP32
 TCP_PORT = 5005  # replace this with the port number you're using on the ESP32
@@ -23,5 +24,6 @@ while True:
 			S3 += 1
 		elif S3 <= 255:
 			S4 += 1
+
 # close Wi-Fi connection
 s.close()
