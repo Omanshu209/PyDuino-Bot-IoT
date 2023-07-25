@@ -1,12 +1,12 @@
 # PyDuino Bot
-This is a Arduino(micro-controller)-based robot which is in the form of a rover consisting of a camera! It is controlled by a PyGame game(a python library) through WiFi.
+This is a Arduino(micro-controller / µC)-based robot which is in the form of a rover consisting of a camera! It is controlled by a PyGame game(a python library) through WiFi.
 
 ![Screenshot_2023-06-29-15-52-48-069](https://github.com/Omanshu209/PyDuino_Bot-WiFi/assets/114089324/9b48e359-6331-4f03-a752-2240e92f1ba8)
 
 ## Components
 The following components are required in order to make the robot:
 ```
-1) Arduino Uno
+1) Arduino Uno (µC)
 2) ESP-32 CAM Module
 3) OV2680 Camera Module
 4) L298N motor Driver
