@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-This is a Arduino(micro-controller / µC)-based robot which is in the form of a rover consisting of a camera! It is controlled by a PyGame game(a python library) through WiFi.
+A set of programs used in an Arduino(micro-controller / µC)-based robot resembling a rover! It can detect human faces using Computer Vision and is controlled by a game developed using the Pygame(a python library) through WiFi.
 
 <img src = "https://github.com/Omanshu209/PyDuino_Bot-WiFi/assets/114089324/9b48e359-6331-4f03-a752-2240e92f1ba8" width = "400px" align = "right" />
 
