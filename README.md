@@ -1,7 +1,12 @@
-# PyDuino Bot
+<div align = "center">
+  <h1>
+    PyDuino Bot
+  </h1>
+</div>
+
 This is a Arduino(micro-controller / µC)-based robot which is in the form of a rover consisting of a camera! It is controlled by a PyGame game(a python library) through WiFi.
 
-![Screenshot_2023-06-29-15-52-48-069](https://github.com/Omanshu209/PyDuino_Bot-WiFi/assets/114089324/9b48e359-6331-4f03-a752-2240e92f1ba8)
+<img src = "https://github.com/Omanshu209/PyDuino_Bot-WiFi/assets/114089324/9b48e359-6331-4f03-a752-2240e92f1ba8" width = "400px" align = "right" />
 
 ## Components
 The following components are required in order to make the robot:
@@ -18,7 +23,8 @@ The following components are required in order to make the robot:
 10) Breadboard
 11) Arduino programmable cable
 ```
-![Screenshot_2023-06-29-16-00-33-035](https://github.com/Omanshu209/PyDuino_Bot-WiFi/assets/114089324/77762e4c-4e94-44f9-ac77-69f938904d82)
+<img src = "https://github.com/Omanshu209/PyDuino_Bot-WiFi/assets/114089324/77762e4c-4e94-44f9-ac77-69f938904d82" width = "400px" align = "left" />
+
 ## Uploading the Code
 ```
 - Upload the 'ESP32_MAIN.ino' file available in the ESP32 folder to the ESP-32 CAM trough UART connection
